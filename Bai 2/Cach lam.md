@@ -1,5 +1,5 @@
 ## 1. Tạo một file mới, đặt tên là Server.js:
-<img width="164" height="31" alt="image" src="https://github.com/user-attachments/assets/85c970bd-b6ce-45ce-a176-e0f1c8343cd4" />
+<img width="370" height="281" alt="image" src="https://github.com/user-attachments/assets/77ed2586-231b-42ba-918a-ac2efeae6b21" />
 
 ## 2. Nhập vào đoạn code sau vào file Server.js:
 <img width="661" height="300" alt="image" src="https://github.com/user-attachments/assets/7af598e2-993e-42b1-8efa-13e740459bf4" />
