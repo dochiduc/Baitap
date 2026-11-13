@@ -7,7 +7,7 @@ http.createServer(function (req, res) {
     res.writeHead(200, {'Content-Type': 'text/html; charset=utf-8'});
     res.write('<h1>Trang chủ (Home)</h1>');
     res.write('<p>Lời chào: Xin chào đến web Node.js!</p>');
-    res.write('<p>Mã sinh viên: <b>[CĐ-CNTT18A]</b></p>');
+    res.write('<p>Mã sinh viên: <b>[CĐ-CNTT18A10]</b></p>');
     res.end();
   } 
   else if (path === '/about') {
