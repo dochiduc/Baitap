@@ -8,4 +8,5 @@
 <img width="379" height="34" alt="image" src="https://github.com/user-attachments/assets/f82fe48e-4333-466d-8007-4a7167996783" />
 
 ## 4. Truy cập vào đường link sẽ cho ra kết quả:
-<img width="374" height="114" alt="image" src="https://github.com/user-attachments/assets/f9e5b1ca-220c-4b35-b80d-da9c7f88bdd4" />
+<img width="226" height="77" alt="image" src="https://github.com/user-attachments/assets/a383270d-07b7-4ab8-874c-e0e0c96d82d2" />
+
