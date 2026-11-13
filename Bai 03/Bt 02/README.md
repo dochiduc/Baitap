@@ -17,7 +17,7 @@ Mở cửa sổ **Terminal** trong thư mục chứa file và gõ lệnh thực 
 Mở trình duyệt web (Chrome, Edge,...) và kiểm tra các đường dẫn sau:
 
 ### a. Trang chủ (`http://localhost:3000/`)
-<img width="272" height="157" alt="image" src="https://github.com/user-attachments/assets/9d39ef01-37c8-4d1d-9c28-73ad3c686726" />
+<img width="286" height="171" alt="image" src="https://github.com/user-attachments/assets/51e3cc44-5a20-4f66-9dd0-8d9e6734032a" />
 
 ### b. Trang giới thiệu (`http://localhost:3000/about`)
 <img width="374" height="202" alt="image" src="https://github.com/user-attachments/assets/ba2d16d2-c900-4aac-942f-95f3af4fa16e" />
