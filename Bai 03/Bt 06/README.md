@@ -22,4 +22,4 @@ Tạo hai tập tin `xulyDiem.js` và `bai06.js` trong cùng một thư mục d�
 
 ### Bước 2: Chạy chương trình bằng Terminal
 Mở cửa sổ **Terminal** tại thư mục chứa file và thực thi lệnh và cho ra kết quả:
-<img width="390" height="365" alt="image" src="https://github.com/user-attachments/assets/9ce9f2aa-491c-49c6-b9fe-8fa78cdf1ca5" />
+<img width="370" height="308" alt="image" src="https://github.com/user-attachments/assets/ea449faf-6df6-47de-9a3b-fe46b50353ee" />
