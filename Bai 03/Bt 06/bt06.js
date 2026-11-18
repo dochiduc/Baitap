@@ -3,9 +3,9 @@ const xuLy = require('./xulyDiem');
 
 // Tạo dữ liệu 3 sinh viên gồm họ tên và điểm 3 môn
 const danhSachSinhVien = [
-  { hoTen: "Nguyen Van A", toan: 8.5, ly: 8.0, hoa: 9.0 },
-  { hoTen: "Tran Thi B", toan: 7.0, ly: 6.5, hoa: 7.0 },
-  { hoTen: "Le Van C", toan: 4.5, ly: 5.0, hoa: 4.0 }
+  { hoTen: "Đỗ Chí Đức", toan: 8.5, ly: 8.0, hoa: 9.0 },
+  { hoTen: "Đỗ Trung Ngọc Bảo", toan: 7.0, ly: 6.5, hoa: 7.0 },
+  { hoTen: "Võ Thanh Hoài", toan: 4.5, ly: 5.0, hoa: 4.0 }
 ];
 
 console.log("--- BẢNG XẾP LOẠI HỌC TẬP SINH VIÊN ---");
