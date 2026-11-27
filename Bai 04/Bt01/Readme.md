@@ -16,9 +16,11 @@ npm install express
 ```
 
 Hình minh họa mã nguồn bai01.js trong VS Code:
+
 <img width="1251" height="787" alt="image" src="https://github.com/user-attachments/assets/edb812e0-ebf9-40f4-9d88-d703134a803f" />
 
 Hình minh họa cài đặt gói và chuẩn bị chạy trên Terminal:
+
 <img width="585" height="626" alt="image" src="https://github.com/user-attachments/assets/0a17e834-8e75-452a-b22b-3c90539f4493" />
 
 ### 2. Lệnh khởi chạy server Express
@@ -45,4 +47,23 @@ Hình minh họa chạy lệnh node bai01.js trên Terminal:
 Đường dẫn không tồn tại: Trả về mã trạng thái 404 kèm thông báo lỗi.
 
 Hình minh họa kết quả cuối cùng trên trình duyệt (localhost:3000):
+
 <img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/81be71f5-b286-4863-b55d-191beef83894" />
+
+## Phần 2: Triển khai lên Free Host và đường link ứng dụng
+
+### 1. Khảo sát và lựa chọn Free HostĐã khảo sát Render, Railway và Fly.io (các nền tảng hỗ trợ triển khai ứng dụng Node.js có gói miễn phí).
+Lựa chọn: Render (Web Service miễn phí kết nối trực tiếp với repository GitHub).
+
+### 2. Các bước triển khai lên Render:
+  1. Đẩy thư mục dự án (server.js, package.json, README.md) lên repository GitHub.
+  2. Đăng nhập vào Render $\rightarrow$ chọn New + $\rightarrow$ Web Service $\rightarrow$ kết nối tới repository GitHub chứa mã nguồn.
+  3. Cấu hình thông số triển khai:
+     * Build Command: npm installStart
+     * Command: node server.js
+  4. Nhấn Create Web Service, chờ quá trình build và khởi chạy hoàn tất, sau đó kiểm tra lại các route trực tiếp trên URL được cấp.
+
+### 3. Đường link ứng dụng đã triển khai thành công URL ứng dụng: https://bai04-bt01-express.onrender.com/
+Hình minh họa ứng dụng chạy thành công trên Free Host:
+
+<img width="1302" height="375" alt="image" src="https://github.com/user-attachments/assets/2489986b-8411-41c4-9ecc-df28d857bc84" />
